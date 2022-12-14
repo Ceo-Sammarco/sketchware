@@ -20,3 +20,11 @@ http://www.sketchwarehelp.com/2017/11/launch-camera-from-sketchware-app-and.html
 
 http://www.sketchwarehelp.com/2017/11/how-to-prevent-automatic-checking-of.html
 
+<!-- [ firebase ]
+============================================================================= -->
+http://www.sketchwarehelp.com/2018/01/firebase-auth-in-sketchware-for-login.html
+
+http://www.sketchwarehelp.com/2018/01/codes-to-improve-firebase-chatting-app.html
+
+http://www.sketchwarehelp.com/2018/01/how-to-delete-data-from-firebase.html
+
