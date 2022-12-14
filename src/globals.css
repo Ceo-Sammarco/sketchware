@@ -43,10 +43,15 @@ appbar {
     background: #1b1d22;
     filter: drop-shadow( #0009 0 0 5px );
 } appbar > h1 { align-self: center; }
+body > main > article, body > main { padding-top: 18px; }
 body > main > article { list-style-type: decimal; width: 90%; margin: 0 auto; }
 body > main > article :nth-child( 1n ) {
     margin: 18px 0;
 }
 img[tut] {
     width: 100%;
+}
+code {
+    color: #ffab00;
+    display: block;
 }
